@@ -7,7 +7,7 @@ If you want to use the script, make sure to have TamperMonkey installed, create 
 
 so far, I have two scripts both updated to function without any bugs but if you do encounter anything please let me know
 
-[this script prevents this redirect from happening](sankaku-Redirect_blocker.js)
+[this script prevents this redirect from happening](sankaku_Redirect_blocker.js)
 
 ![opera_UCLESGic3P](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/7c96126a-5807-473c-85ac-48555cc09dee)
 
