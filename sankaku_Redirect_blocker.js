@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redirect Prevention
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  I have nothing better to do with my life.
 // @author       Me
 // @match        https://chan.sankakucomplex.com/*
