@@ -2,7 +2,7 @@
 // @name         adblock pop-up removal
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Having friends must be nice
 // @author       You
 // @match        https://chan.sankakucomplex.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sankakucomplex.com
@@ -12,7 +12,6 @@
 (function() {
     'use strict';
 
-    // Get the parent div that contains style, two divs, and a script tag
 let possibleModals = [...document.querySelectorAll('div')].filter(el => {
     let children = el.children;
     return children.length === 4 &&
@@ -22,7 +21,6 @@ let possibleModals = [...document.querySelectorAll('div')].filter(el => {
            children[3].tagName === 'SCRIPT';
 });
 
-// Hide the possible modal if found
 if (possibleModals.length) {
     possibleModals[0].style.display = 'none';
 }
