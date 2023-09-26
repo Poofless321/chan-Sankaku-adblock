@@ -12,6 +12,6 @@ so far, I have two scripts both updated to function without any bugs but if you 
 ![opera_UCLESGic3P](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/7c96126a-5807-473c-85ac-48555cc09dee)
 
 
-[this other script automatically closes this pop-up](Sankak-pop-up-blocker.js)
+[this other script automatically closes this pop-up](Sankaku-pop-up-blocker.js)
 
 ![opera_uIbrvXgW9H](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/8faee795-663c-4bc2-8deb-c1e67bc7d431)
