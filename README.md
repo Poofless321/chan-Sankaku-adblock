@@ -14,4 +14,5 @@ so far, I have two scripts both updated to function without any bugs but if you 
 
 [Pop-up blocker prevents this:](Sankaku-pop-up-blocker.js)
 
-![opera_uJJsq9hhgu](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/0b94f2cb-ab83-44da-a786-c859d3c80c19)
+
+![opera_YJ95IuW5gB](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/463ed8ef-6494-4681-ab43-46069210a04c)
