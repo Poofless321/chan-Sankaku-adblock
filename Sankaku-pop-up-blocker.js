@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         adblock pop-up removal
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Having friends must be nice
 // @author       You
 // @match        https://chan.sankakucomplex.com/*
