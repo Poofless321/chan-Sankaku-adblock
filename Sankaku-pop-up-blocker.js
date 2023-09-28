@@ -12,7 +12,6 @@
 
 (function() {
     'use strict';
-    let amount = 1
     const targetNode = document.documentElement;
     const config = { childList: true, subtree: true };
 
@@ -31,7 +30,7 @@
                 });
 
                 if (possibleModals.length) {
-                    console.log("Found a mutation with the shit you want");
+                    //console.log("Found a mutation with the crap you want removed");
                     possibleModals[0].remove();
                     observer.disconnect(); // disconnect observer after deleting the div
                 }
