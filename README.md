@@ -1,5 +1,5 @@
 ## Updates
-0.2 [:](sankaku_Redirect_blocker.js) No longer shows the image for a brief second
+0.2 [:](sankaku_Redirect_blocker.js) No longer shows the pop-up for a brief second
 
 
 # chan Sankaku adblocker
