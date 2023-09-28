@@ -10,9 +10,6 @@
 // @run-at       document-start
 // ==/UserScript==
 
-
-function a() {}
-
 function s(e, t) {
     var n = (0, r.Qo)(t);
     var i;
