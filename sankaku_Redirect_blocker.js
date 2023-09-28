@@ -70,7 +70,6 @@
             n.props["*"] = true;
         }
     }
-    var u = 6e3
     function o(e, t, k) {
         var o_ = arguments[1];
         for (var n in e) {
@@ -102,10 +101,10 @@
         }
     }
 
-    window.setTimeout = function(e, t, u) {
+    window.setTimeout = function(e, t) {
             var i = arguments[0];
             var a = arguments[1];
-        if (a === u) {
+        if (a === 6e3) {
             return;
         }
         return k.apply(this, arguments);
