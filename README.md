@@ -1,3 +1,7 @@
+## Updates
+0.2 [:](sankaku_Redirect_blocker.js) No longer shows the image for a brief second
+
+
 # chan Sankaku adblocker
 
 Here I am making random scripts for https:// chan.sankakucomplex.com because I have nothing better to do. It mainly consists of a script to stop the stupid:
@@ -16,6 +20,3 @@ so far, I have two scripts both updated to function without any bugs but if you 
 
 ![opera_YJ95IuW5gB](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/463ed8ef-6494-4681-ab43-46069210a04c)
 
-
-## Updates
-0.2 [:](sankaku_Redirect_blocker.js) No longer shows the image for a brief second
