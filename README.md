@@ -13,6 +13,6 @@ so far, I have two scripts both updated to function without any bugs but if you 
 
 
 **[Pop-up blocker prevents this:](Sankaku-pop-up-blocker.js)**
-
+(Updated no longer shows the pop-up before removing it)
 
 ![opera_YJ95IuW5gB](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/463ed8ef-6494-4681-ab43-46069210a04c)
