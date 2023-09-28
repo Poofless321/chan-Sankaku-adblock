@@ -1,7 +1,7 @@
 ## Updates
-0.2 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) No longer shows the pop-up for a brief second
+Ver 0.2 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) No longer shows the pop-up for a brief second
 
-0.2 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) Fixed the bug were scrolling stopped working
+Ver 0.2 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) Fixed the bug were scrolling stopped working
 
 
 # chan Sankaku adblocker
