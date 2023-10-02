@@ -11,7 +11,7 @@ Here I am making random scripts for https:// chan.sankakucomplex.com because I h
 
 If you want to use the script, make sure to have TamperMonkey installed, create a new TamperMonkey script,  copy & paste my script, and save it.
 
-so far, I have two scripts both updated to function without any bugs but if you do encounter anything please let me know
+so far, I have two scripts, both updated to function without any bugs but if you do encounter anything please let me know
 
 **[Redirect blocker prevents this:](sankaku_Redirect_blocker.js)**
 
