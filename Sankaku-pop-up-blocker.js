@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Having friends must be nice
-// @author       You
+// @author       Poofless321
 // @match        https://chan.sankakucomplex.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sankakucomplex.com
 // @grant        none
