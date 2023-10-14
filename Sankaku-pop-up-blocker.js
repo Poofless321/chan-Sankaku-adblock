@@ -29,8 +29,7 @@
                            children[3].tagName === 'SCRIPT';
                 });
 
-                if (possibleModals.length) {
-                    //console.log("Found a mutation with the crap you want removed");
+                if (possibleModals.length) {;
                     possibleModals[0].remove();
                     observer.disconnect(); // disconnect observer after deleting the div
                 }
