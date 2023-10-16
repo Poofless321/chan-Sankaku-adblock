@@ -1,5 +1,3 @@
-## Notice
-auto-paging is broken again **for some people** but hey! it's not my fault this time it seems  Ublock is the problem delete the cache (worked for me) or check your filters
 ## Updates
 Ver 0.2 [Sankaku-pop-up-blocker.js](Sankaku-pop-up-blocker.js) No longer shows the pop-up for a brief second
 
