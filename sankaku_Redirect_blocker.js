@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sankaku redirect prevention
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  obfuscated to make WinterXIX have to work overtime.
 // @author       Poofless321
 // @match        https://chan.sankakucomplex.com/*
