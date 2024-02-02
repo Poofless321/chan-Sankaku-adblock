@@ -10,7 +10,7 @@ Here I am making random scripts for https:// chan.sankakucomplex.com because I h
 
 "You have been flagged as using Ad-block, or scripts that meddle with the Ad-block detection methods in place. To continue using the site regularly, disable them, or upgrade to Sankaku Plus! "
 
-# How to use:
+** How to use:**
 make sure to have [TamperMonkey]([URL](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) installed
 create a new TamperMonkey script  
 copy & paste my script onto the editor and save it.
