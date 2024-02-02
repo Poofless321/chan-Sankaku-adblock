@@ -12,7 +12,7 @@ Here I am making random scripts for https:// chan.sankakucomplex.com because I h
 
 **How to use:**
 
-make sure to have [TamperMonkey]([URL](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) installed
+make sure to have [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) installed
 create a new TamperMonkey script  
 copy & paste my script onto the editor and save it.
 Done!
